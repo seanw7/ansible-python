@@ -1,0 +1,15 @@
+---
+galaxy_info:
+# author: Hector Castro # Original author
+  author: seanw7
+  description: An Ansible role for installing the Python programming language.
+#  company: Azavea Inc.
+  license: Apache
+  min_ansible_version: 1.2
+  platforms:
+  - name: EL
+    versions:
+    - 7
+  categories:
+  - development
+dependencies: []
